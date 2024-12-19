@@ -1,5 +1,5 @@
 # PEP2_DAG
-# Proyecto: Búsqueda de Predio Óptimo para Canchas de Fútbol
+# Proyecto: Búsqueda de Predios Óptimos para Canchas de Fútbol
 
 Este repositorio contiene un script Python y un conjunto de herramientas para identificar predios óptimos para la instalación de canchas de fútbol. El análisis se realiza utilizando datos espaciales y atributos relevantes almacenados en una base de datos PostgreSQL/PostGIS.
 
@@ -12,7 +12,7 @@ El proyecto incluye los siguientes componentes principales:
 ### 1. Descomprimir el zip "PEP2_DAG.zip" para acceder a **Carpetas y Archivos**
 - **Entradas/**: Contiene archivos como shapefiles (predios, manzanas, vías) necesarios para el procesamiento.
 - **sql_queries/**: Archivos SQL utilizados para geoprocesos y cálculos en la base de datos.
-- **config/**: Archivos de configuración, incluyendo `config.json`.
+- **config/**: Archivo de configuración `config.json`.
 - **pep_dag.py**: Script principal de Python que conecta, procesa y almacena los datos en la base de datos PostgreSQL/PostGIS.
 - **Procedimiento DAG**: Documento con los pasos y especificaciones de los procesos implementados.
 
