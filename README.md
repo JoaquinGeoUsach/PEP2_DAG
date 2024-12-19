@@ -9,7 +9,7 @@ Este repositorio contiene un script Python y un conjunto de herramientas para id
 
 El proyecto incluye los siguientes componentes principales:
 
-### 1. **Carpetas y Archivos**
+### 1. Descomprimir el zip "PEP2_DAG.zip" para acceder a **Carpetas y Archivos**
 - **Entradas/**: Contiene archivos como shapefiles (predios, manzanas, vías) necesarios para el procesamiento.
 - **sql_queries/**: Archivos SQL utilizados para geoprocesos y cálculos en la base de datos.
 - **config/**: Archivos de configuración, incluyendo `config.json`.
