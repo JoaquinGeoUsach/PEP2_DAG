@@ -108,11 +108,13 @@ Consulta el archivo **`Procedimiento DAG`** para obtener detalles técnicos y ex
 ## 📊 **Estructura del Repositorio**
 
 ```
+Zip que contiene: 
 ├── Entradas/               # Archivos de entrada (shapefiles de predios, manzanas, vías)
 ├── sql_queries/            # Consultas SQL para geoprocesos
 ├── config/                 # Archivos de configuración (JSON, etc.)
 ├── pep_dag.py              # Script principal para procesamiento y carga
 ├── Procedimiento DAG       # Documentación de procesos
+
 └── README.md               # Instrucciones del proyecto
 ```
 
